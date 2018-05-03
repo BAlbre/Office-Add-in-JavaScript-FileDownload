@@ -2,6 +2,7 @@
 <!--Created:ce44715c-8c4e-446b-879c-ea9ebe0f09c8-->
 <!-- Copyright (c) Microsoft Corporation. All rights reserved. Licensed under the MIT license. -->
 <!-- See LICENSE in the project root for license information -->
+<!-- Dieser Kommentar ist eine kleine Änderung, hoffe ich. -->
 
 <OfficeApp 
           xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" 
@@ -131,7 +132,7 @@
       <!-- LongStrings max characters==250. -->
       <bt:LongStrings>
         <bt:String id="Contoso.TaskpaneButton.Tooltip" DefaultValue="Click to show the file download code sample" />
-        <bt:String id="Contoso.GetStarted.Description" DefaultValue="The file download code sample add-in loaded succesfully. Go to the HOME tab and click the 'File download' button to get started." />
+        <bt:String id="Contoso.GetStarted.Description" DefaultValue="The file download code sample add-in loaded succesfully. Go to the HOME tab and click the 'File download' button to get started. Good luck!" />
       </bt:LongStrings>
     </Resources>
   </VersionOverrides>
